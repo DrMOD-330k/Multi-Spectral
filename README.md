@@ -12,4 +12,4 @@ Data statistics and attribute analysis:
 ![statistic](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/statistic.png)
 
 # Acknowledgement
-MMRotate is an open source project, available at <https://github.com/open-mmlab/mmrotate>. We express our sincere gratitude to the contributors of the MMRotate project. The MMRotate codebase provided a solid foundation for our work in multispectral rotated object detection, and its modular design and comprehensive documentation significantly facilitated our research and development process.
+We express our sincere gratitude to the contributors of the [MMRotate](https://github.com/open-mmlab/mmrotate) project. The MMRotate codebase provided a solid foundation for our work in multispectral rotated object detection, and its modular design and comprehensive documentation significantly facilitated our research and development process.
