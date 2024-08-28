@@ -10,6 +10,8 @@ objects and complex backgrounds.
 >The dataset link will be posted here later.
 
 # Data Analysis and Visualization
-![annotation](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/annotation.png)
+Some examples of DrMOD dataset:
+![annotation](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/DrMOD_annotation.png)
 
+Data statistics and attribute analysis
 ![statistic](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/statistic.png)
