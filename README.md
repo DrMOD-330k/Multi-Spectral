@@ -1,7 +1,7 @@
 # Multi-Spectral
 
-Introduction
-DrMOD dataset: A Large-scale Dataset for Drone-based Multispectral Object Detection (DrMOD), 
+>Introduction
+>>**DrMOD dataset:** A Large-scale Dataset for Drone-based Multispectral Object Detection (DrMOD), 
 consisting of 14,041 multispectral images, each with eight spectral channels 
 and a spatial resolution of 1200*900. It spans eight object categories and 
 includes 330,191 rotated bounding boxes. DrMOD covers a diverse range of urban 
