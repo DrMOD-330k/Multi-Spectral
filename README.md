@@ -4,9 +4,9 @@ We introduce the firstlarge-scale, challenging dataset named DrMOD. This dataset
 # Links
 Download links of the dataset will be posted here later.
 
-# Data statistics and attribute analysis
+# Visualization and Attribute Analysis
 Some examples of the annotation:
 ![DrMOD_annotation](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/DrMOD_annotation.png)
 
-Statistics and analysis:
+Data statistics and attribute analysis:
 ![statistic](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/statistic.png)
