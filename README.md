@@ -11,3 +11,5 @@ objects and complex backgrounds.
 
 # Data Analysis and Visualization
 ![annotation](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/annotation.png)
+
+![statistic](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/statistic.png)
