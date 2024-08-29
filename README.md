@@ -12,8 +12,7 @@ Data statistics and attribute analysis:
 Download links of the whole dataset will be posted here later.
 
 # Baseline Models
-We utilize a ResNet50 backbone pretrained on the ImageNet dataset for initialization. For MSI input, it’s obtained from ResNet50 based on wavelength interpolation ([425, 490, 550, 600, 660, 725, 780, 880] nm). The interpolated weights file will be posted here later.  
-**Note:** When using the multispectral baseline models, you need to modify the number of input channels in the first layer of the network to 8 to match the 8-channel multispectral pretrained weights.
+We utilize a ResNet50 backbone pretrained on the ImageNet dataset for initialization. For MSI input, it’s obtained from ResNet50 based on wavelength interpolation ([425, 490, 550, 600, 660, 725, 780, 880] nm). The interpolated weights file will be posted here later. **Note:** When using the multispectral baseline models, you need to modify the number of input channels in the first layer of the network to 8 to match the 8-channel multispectral pretrained weights.
 
 # Code
 The proposed methods are implemented based on pytorch, and the evaluation code has been open source. For details, please see [MMRotate](https://github.com/open-mmlab/mmrotate).
