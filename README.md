@@ -4,7 +4,7 @@ We introduce a large-scale challenging multispectral dataset, named DrMOD. This 
 # Links
 Download links of the dataset will be posted here later.
 
-# Pre-trained Weights
+# Baseline Models
 We utilize a ResNet50 backbone pre-trained on the ImageNet dataset for initialization to accelerate model convergence. For MSI input, it’s obtained from ResNet50 based on wavelength interpolation ([425, 490, 550, 600, 660, 725, 780, 880] nm). The interpolated weights file will be posted here later.
 
 # Visualization and Attribute Analysis
