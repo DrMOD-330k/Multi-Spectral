@@ -9,7 +9,7 @@ Data statistics and attribute analysis:
 ![statistic](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/statistic.png)
 
 # Download
-Download links of the dataset will be posted here later.
+Download links of the whole dataset will be posted here later.
 
 # Baseline Models
 We utilize a ResNet50 backbone pretrained on the ImageNet dataset for initialization. For MSI input, it’s obtained from ResNet50 based on wavelength interpolation ([425, 490, 550, 600, 660, 725, 780, 880] nm). The interpolated weights file will be posted here later.  
