@@ -2,8 +2,11 @@
 DrMOD, a large-scale challenging multispectral dataset. This dataset consists of 14,041 multispectral images, each with eight spectral channels and a spatial resolution of 1200 x 900. It spans eight object categories and includes 330,191 rotated bounding boxes. DrMOD dataset covers a diverse range of urban scenes from drone perspectives, addressing challenges such as small-sized objects and complex backgrounds.
 
 # Dataset
-Annotation visualization examples of varied environments and conditions:
-![annotation](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/annotation.png)
+Annotation visualization examples of varied conditions:
+![annotation_1](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/annotation_1.png)
+
+Annotation visualization examples of varied environments:
+![annotation_2](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/annotation_2.png)
 
 Data statistics and attribute analysis:
 ![statistic](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/statistic.png)
