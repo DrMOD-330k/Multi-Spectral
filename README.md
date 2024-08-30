@@ -8,11 +8,11 @@ Annotation visualization examples of **varied conditions**:
 Annotation visualization examples of **varied environments**:
 ![annotation_2](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/annotation_2.png)
 
-Data statistics and attribute analysis:
-![statistic](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/statistic.png)
-
 Challenging attributes：
 ![annotation_3](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/annotation_3.png)
+
+Data statistics and attribute analysis:
+![statistic](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/statistic.png)
 
 # Download
 Download links of the whole dataset will be posted here later.
