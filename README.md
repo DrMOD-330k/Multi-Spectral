@@ -3,13 +3,16 @@ DrMOD, a large-scale challenging multispectral dataset. This dataset consists of
 
 # Dataset
 Annotation visualization examples of **varied conditions**:
-![annotation_1](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/annotation_1.png)
+![annotation_4](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/annotation_4.png)
 
 Annotation visualization examples of **varied environments**:
 ![annotation_2](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/annotation_2.png)
 
 Data statistics and attribute analysis:
 ![statistic](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/statistic.png)
+
+Challenging attributes：
+![annotation_3](https://github.com/DrMOD-330k/Multi-Spectral/blob/main/resources/annotation_3.png)
 
 # Download
 Download links of the whole dataset will be posted here later.
