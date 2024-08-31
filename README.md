@@ -23,14 +23,14 @@ We utilize a ResNet50 backbone pretrained on the ImageNet dataset for initializa
 **Training**
 
 **Testing**
-# single-gpu
+'''# single-gpu
 python tools/test.py ${CONFIG_FILE} ${CHECKPOINT_FILE} [optional arguments]
 
 # multi-gpu
 ./tools/dist_test.sh ${CONFIG_FILE} ${CHECKPOINT_FILE} ${GPU_NUM} [optional arguments]
 
 # multi-node in slurm environment
-python tools/test.py ${CONFIG_FILE} ${CHECKPOINT_FILE} [optional arguments] --launcher slurm
+python tools/test.py ${CONFIG_FILE} ${CHECKPOINT_FILE} [optional arguments] --launcher slurm'''
 
 # Code
 The proposed methods are implemented based on pytorch, and the evaluation code has been open source. For details, please see [MMRotate](https://github.com/open-mmlab/mmrotate).
